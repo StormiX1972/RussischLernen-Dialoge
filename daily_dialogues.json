@@ -1,0 +1,79 @@
+{
+  "dialogues": [
+    {
+      "id": "online_alltag_001",
+      "title": "Nach Hause gehen",
+      "level": "A1",
+      "topic": "alltag",
+      "lines": [
+        {
+          "speaker": "Anna",
+          "ru": "Ты идёшь домой?",
+          "de": "Gehst du nach Hause?"
+        },
+        {
+          "speaker": "Max",
+          "ru": "Да, я иду домой.",
+          "de": "Ja, ich gehe nach Hause."
+        }
+      ],
+      "relatedCardIds": [
+        "alltag_053"
+      ],
+      "source": "RussischLernen",
+      "license": "Eigener Lerninhalt",
+      "version": 1,
+      "updatedAt": "2026-10-07"
+    },
+    {
+      "id": "online_alltag_002",
+      "title": "Alles gut",
+      "level": "A1",
+      "topic": "alltag",
+      "lines": [
+        {
+          "speaker": "Max",
+          "ru": "Как ты?",
+          "de": "Wie geht es dir?"
+        },
+        {
+          "speaker": "Anna",
+          "ru": "У меня всё хорошо.",
+          "de": "Mir geht es gut."
+        }
+      ],
+      "relatedCardIds": [
+        "alltag_042"
+      ],
+      "source": "RussischLernen",
+      "license": "Eigener Lerninhalt",
+      "version": 1,
+      "updatedAt": "2026-10-07"
+    },
+    {
+      "id": "online_alltag_003",
+      "title": "Sehr gut",
+      "level": "A1",
+      "topic": "alltag",
+      "lines": [
+        {
+          "speaker": "Anna",
+          "ru": "Как дела?",
+          "de": "Wie geht's?"
+        },
+        {
+          "speaker": "Max",
+          "ru": "Очень хорошо!",
+          "de": "Sehr gut!"
+        }
+      ],
+      "relatedCardIds": [
+        "alltag_052"
+      ],
+      "source": "RussischLernen",
+      "license": "Eigener Lerninhalt",
+      "version": 1,
+      "updatedAt": "2026-10-07"
+    }
+  ]
+}
